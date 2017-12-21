@@ -1,0 +1,1150 @@
+2017-12-19 09:53:10.061 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.63720703125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=253755392(242MB),freeMemory=107640168(102MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18249728(17MB),committed=18612224(17MB),usedRatio=98.05%
+Non-heap memory(Metaspace):
+used=44680352(42MB),committed=46006272(43MB),usedRatio=97.12%
+Non-heap memory(Compressed Class Space):
+used=5349328(5MB),committed=5636096(5MB),usedRatio=94.91%
+Heap memory(PS Eden Space):
+used=119234608(113MB),committed=136839168(130MB),usedRatio=87.13%
+Heap memory(PS Survivor Space):
+used=0(0MB),committed=27262976(26MB),usedRatio=0.0%
+Heap memory(PS Old Gen):
+used=26880616(25MB),committed=89653248(85MB),usedRatio=29.98%
+threadCount=19,peakThreadCount=20
+minor gc(PS Scavenge):
+count=13,time=191(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 09:58:10.078 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.2412109375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=253755392(242MB),freeMemory=99866808(95MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18911168(18MB),committed=19136512(18MB),usedRatio=98.82%
+Non-heap memory(Metaspace):
+used=44821048(42MB),committed=46006272(43MB),usedRatio=97.42%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=127007968(121MB),committed=136839168(130MB),usedRatio=92.82%
+Heap memory(PS Survivor Space):
+used=0(0MB),committed=27262976(26MB),usedRatio=0.0%
+Heap memory(PS Old Gen):
+used=26880616(25MB),committed=89653248(85MB),usedRatio=29.98%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=13,time=191(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:03:10.094 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.48095703125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=253755392(242MB),freeMemory=94848976(90MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18992384(18MB),committed=19202048(18MB),usedRatio=98.91%
+Non-heap memory(Metaspace):
+used=44821416(42MB),committed=46006272(43MB),usedRatio=97.42%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=132025800(125MB),committed=136839168(130MB),usedRatio=96.48%
+Heap memory(PS Survivor Space):
+used=0(0MB),committed=27262976(26MB),usedRatio=0.0%
+Heap memory(PS Old Gen):
+used=26880616(25MB),committed=89653248(85MB),usedRatio=29.98%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=13,time=191(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:08:10.111 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.09228515625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=253755392(242MB),freeMemory=90035608(85MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19001536(18MB),committed=19202048(18MB),usedRatio=98.96%
+Non-heap memory(Metaspace):
+used=44821416(42MB),committed=46006272(43MB),usedRatio=97.42%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=136839168(130MB),committed=136839168(130MB),usedRatio=100.0%
+Heap memory(PS Survivor Space):
+used=0(0MB),committed=27262976(26MB),usedRatio=0.0%
+Heap memory(PS Old Gen):
+used=26880616(25MB),committed=89653248(85MB),usedRatio=29.98%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=13,time=191(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:13:10.128 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.2998046875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=263471072(251MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19007296(18MB),committed=19202048(18MB),usedRatio=98.99%
+Non-heap memory(Metaspace):
+used=44822872(42MB),committed=46006272(43MB),usedRatio=97.43%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=5310808(5MB),committed=200802304(191MB),usedRatio=2.64%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:18:10.150 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.45458984375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=256505160(244MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19038464(18MB),committed=19202048(18MB),usedRatio=99.15%
+Non-heap memory(Metaspace):
+used=44833544(42MB),committed=46006272(43MB),usedRatio=97.45%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=11941984(11MB),committed=200802304(191MB),usedRatio=5.95%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:23:10.171 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.30322265625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=252084472(240MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19038464(18MB),committed=19202048(18MB),usedRatio=99.15%
+Non-heap memory(Metaspace):
+used=44833576(42MB),committed=46006272(43MB),usedRatio=97.45%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=16362672(15MB),committed=200802304(191MB),usedRatio=8.15%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:28:10.190 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.77587890625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=247663816(236MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19039936(18MB),committed=19202048(18MB),usedRatio=99.16%
+Non-heap memory(Metaspace):
+used=44833864(42MB),committed=46006272(43MB),usedRatio=97.45%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=20783328(19MB),committed=200802304(191MB),usedRatio=10.35%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:33:10.211 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.69384765625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=243243216(231MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19067072(18MB),committed=19202048(18MB),usedRatio=99.3%
+Non-heap memory(Metaspace):
+used=44839416(42MB),committed=46006272(43MB),usedRatio=97.46%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=25203928(24MB),committed=200802304(191MB),usedRatio=12.55%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:38:10.222 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.15771484375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=238822608(227MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19072448(18MB),committed=19202048(18MB),usedRatio=99.33%
+Non-heap memory(Metaspace):
+used=44840080(42MB),committed=46006272(43MB),usedRatio=97.47%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=29624536(28MB),committed=200802304(191MB),usedRatio=14.75%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:43:10.243 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.19189453125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=233849456(223MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19073344(18MB),committed=19202048(18MB),usedRatio=99.33%
+Non-heap memory(Metaspace):
+used=44840424(42MB),committed=46006272(43MB),usedRatio=97.47%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=34597688(32MB),committed=200802304(191MB),usedRatio=17.23%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:48:10.264 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.32861328125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=229092168(218MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19077632(18MB),committed=19202048(18MB),usedRatio=99.35%
+Non-heap memory(Metaspace):
+used=44841376(42MB),committed=46006272(43MB),usedRatio=97.47%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=39354976(37MB),committed=200802304(191MB),usedRatio=19.6%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:53:10.282 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.548828125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=224671512(214MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19104000(18MB),committed=19202048(18MB),usedRatio=99.49%
+Non-heap memory(Metaspace):
+used=44848536(42MB),committed=46006272(43MB),usedRatio=97.48%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=43775632(41MB),committed=200802304(191MB),usedRatio=21.8%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 10:58:10.299 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.69921875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=219680512(209MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19129216(18MB),committed=19267584(18MB),usedRatio=99.28%
+Non-heap memory(Metaspace):
+used=44855192(42MB),committed=46006272(43MB),usedRatio=97.5%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=48766632(46MB),committed=200802304(191MB),usedRatio=24.29%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 11:03:10.313 - jvmInfo:
+start=2017-12-19 09:47:59,load=1.46044921875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=215259848(205MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19132224(18MB),committed=19267584(18MB),usedRatio=99.3%
+Non-heap memory(Metaspace):
+used=44855688(42MB),committed=46006272(43MB),usedRatio=97.5%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=53187296(50MB),committed=200802304(191MB),usedRatio=26.49%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 11:08:10.333 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.162109375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=210286576(200MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19142400(18MB),committed=19267584(18MB),usedRatio=99.35%
+Non-heap memory(Metaspace):
+used=44858704(42MB),committed=46006272(43MB),usedRatio=97.51%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=58160568(55MB),committed=200802304(191MB),usedRatio=28.96%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 11:13:10.351 - jvmInfo:
+start=2017-12-19 09:47:59,load=2.33642578125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=307232768(293MB),freeMemory=205313352(195MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19161088(18MB),committed=19267584(18MB),usedRatio=99.45%
+Non-heap memory(Metaspace):
+used=44861328(42MB),committed=46006272(43MB),usedRatio=97.51%
+Non-heap memory(Compressed Class Space):
+used=5354704(5MB),committed=5636096(5MB),usedRatio=95.01%
+Heap memory(PS Eden Space):
+used=63133792(60MB),committed=200802304(191MB),usedRatio=31.44%
+Heap memory(PS Survivor Space):
+used=11896816(11MB),committed=16777216(16MB),usedRatio=70.91%
+Heap memory(PS Old Gen):
+used=26888808(25MB),committed=89653248(85MB),usedRatio=29.99%
+threadCount=20,peakThreadCount=20
+minor gc(PS Scavenge):
+count=14,time=244(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=136(milliseconds)
+metrics:
+NULL
+2017-12-19 11:24:20.003 - jvmInfo:
+start=2017-12-19 11:19:10,load=1.71875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=308281344(294MB),freeMemory=161092608(153MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18668224(17MB),committed=18874368(18MB),usedRatio=98.91%
+Non-heap memory(Metaspace):
+used=43365528(41MB),committed=44523520(42MB),usedRatio=97.4%
+Non-heap memory(Compressed Class Space):
+used=5185776(4MB),committed=5505024(5MB),usedRatio=94.2%
+Heap memory(PS Eden Space):
+used=119241000(113MB),committed=171442176(163MB),usedRatio=69.55%
+Heap memory(PS Survivor Space):
+used=0(0MB),committed=31981568(30MB),usedRatio=0.0%
+Heap memory(PS Old Gen):
+used=27947736(26MB),committed=104857600(100MB),usedRatio=26.65%
+threadCount=18,peakThreadCount=18
+minor gc(PS Scavenge):
+count=11,time=175(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=145(milliseconds)
+metrics:
+NULL
+2017-12-19 11:33:21.361 - jvmInfo:
+start=2017-12-19 11:28:13,load=1.91162109375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=352845824(336MB),freeMemory=279007792(266MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19451200(18MB),committed=19857408(18MB),usedRatio=97.95%
+Non-heap memory(Metaspace):
+used=43354248(41MB),committed=44523520(42MB),usedRatio=97.37%
+Non-heap memory(Compressed Class Space):
+used=5185240(4MB),committed=5505024(5MB),usedRatio=94.19%
+Heap memory(PS Eden Space):
+used=36705376(35MB),committed=236453888(225MB),usedRatio=15.52%
+Heap memory(PS Survivor Space):
+used=9144536(8MB),committed=12058624(11MB),usedRatio=75.83%
+Heap memory(PS Old Gen):
+used=27988120(26MB),committed=104333312(99MB),usedRatio=26.83%
+threadCount=18,peakThreadCount=18
+minor gc(PS Scavenge):
+count=12,time=218(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=139(milliseconds)
+metrics:
+NULL
+2017-12-19 11:41:01.166 - jvmInfo:
+start=2017-12-19 11:35:53,load=2.63525390625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=443023360(422MB),freeMemory=361606336(344MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19481408(18MB),committed=20185088(19MB),usedRatio=96.51%
+Non-heap memory(Metaspace):
+used=43313720(41MB),committed=44351488(42MB),usedRatio=97.66%
+Non-heap memory(Compressed Class Space):
+used=5188256(4MB),committed=5554176(5MB),usedRatio=93.41%
+Heap memory(PS Eden Space):
+used=25309304(24MB),committed=279445504(266MB),usedRatio=9.06%
+Heap memory(PS Survivor Space):
+used=6160448(5MB),committed=24641536(23MB),usedRatio=25.0%
+Heap memory(PS Old Gen):
+used=49947272(47MB),committed=138936320(132MB),usedRatio=35.95%
+threadCount=37,peakThreadCount=37
+minor gc(PS Scavenge):
+count=10,time=213(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=139(milliseconds)
+metrics:
+NULL
+2017-12-19 11:46:01.180 - jvmInfo:
+start=2017-12-19 11:35:53,load=2.2978515625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=452984832(432MB),freeMemory=267263328(254MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19075712(18MB),committed=20447232(19MB),usedRatio=93.29%
+Non-heap memory(Metaspace):
+used=43509960(41MB),committed=44613632(42MB),usedRatio=97.53%
+Non-heap memory(Compressed Class Space):
+used=5195488(4MB),committed=5554176(5MB),usedRatio=93.54%
+Heap memory(PS Eden Space):
+used=129889424(123MB),committed=279445504(266MB),usedRatio=46.48%
+Heap memory(PS Survivor Space):
+used=6225984(5MB),committed=34603008(33MB),usedRatio=17.99%
+Heap memory(PS Old Gen):
+used=49955464(47MB),committed=138936320(132MB),usedRatio=35.96%
+threadCount=37,peakThreadCount=37
+minor gc(PS Scavenge):
+count=11,time=228(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=139(milliseconds)
+metrics:
+NULL
+2017-12-19 11:51:01.193 - jvmInfo:
+start=2017-12-19 11:35:53,load=2.845703125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=459800576(438MB),freeMemory=373417880(356MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19309440(18MB),committed=20447232(19MB),usedRatio=94.44%
+Non-heap memory(Metaspace):
+used=43601904(41MB),committed=44613632(42MB),usedRatio=97.73%
+Non-heap memory(Compressed Class Space):
+used=5195488(4MB),committed=5554176(5MB),usedRatio=93.54%
+Heap memory(PS Eden Space):
+used=30441544(29MB),committed=314572800(300MB),usedRatio=9.68%
+Heap memory(PS Survivor Space):
+used=6225952(5MB),committed=6291456(6MB),usedRatio=98.96%
+Heap memory(PS Old Gen):
+used=49971848(47MB),committed=138936320(132MB),usedRatio=35.97%
+threadCount=37,peakThreadCount=37
+minor gc(PS Scavenge):
+count=13,time=261(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=139(milliseconds)
+metrics:
+NULL
+2017-12-19 14:29:08.156 - jvmInfo:
+start=2017-12-19 14:24:01,load=1.7529296875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=414711808(395MB),freeMemory=294779368(281MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18684288(17MB),committed=19070976(18MB),usedRatio=97.97%
+Non-heap memory(Metaspace):
+used=43287496(41MB),committed=44261376(42MB),usedRatio=97.8%
+Non-heap memory(Compressed Class Space):
+used=5189800(4MB),committed=5505024(5MB),usedRatio=94.27%
+Heap memory(PS Eden Space):
+used=78126928(74MB),committed=279969792(267MB),usedRatio=27.91%
+Heap memory(PS Survivor Space):
+used=9552120(9MB),committed=11010048(10MB),usedRatio=86.76%
+Heap memory(PS Old Gen):
+used=32253392(30MB),committed=123731968(118MB),usedRatio=26.07%
+threadCount=27,peakThreadCount=27
+minor gc(PS Scavenge):
+count=10,time=178(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=154(milliseconds)
+metrics:
+NULL
+2017-12-19 14:34:08.170 - jvmInfo:
+start=2017-12-19 14:24:01,load=1.75732421875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=414711808(395MB),freeMemory=93884856(89MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18312192(17MB),committed=19202048(18MB),usedRatio=95.37%
+Non-heap memory(Metaspace):
+used=43525584(41MB),committed=44523520(42MB),usedRatio=97.76%
+Non-heap memory(Compressed Class Space):
+used=5195176(4MB),committed=5505024(5MB),usedRatio=94.37%
+Heap memory(PS Eden Space):
+used=279021440(266MB),committed=279969792(267MB),usedRatio=99.66%
+Heap memory(PS Survivor Space):
+used=9552120(9MB),committed=11010048(10MB),usedRatio=86.76%
+Heap memory(PS Old Gen):
+used=32253392(30MB),committed=123731968(118MB),usedRatio=26.07%
+threadCount=27,peakThreadCount=27
+minor gc(PS Scavenge):
+count=10,time=178(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=154(milliseconds)
+metrics:
+NULL
+2017-12-19 14:46:19.997 - jvmInfo:
+start=2017-12-19 14:41:11,load=2.05810546875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=379584512(362MB),freeMemory=224875344(214MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19445056(18MB),committed=20512768(19MB),usedRatio=94.79%
+Non-heap memory(Metaspace):
+used=43347632(41MB),committed=44261376(42MB),usedRatio=97.94%
+Non-heap memory(Compressed Class Space):
+used=5194832(4MB),committed=5505024(5MB),usedRatio=94.37%
+Heap memory(PS Eden Space):
+used=92340376(88MB),committed=238551040(227MB),usedRatio=38.71%
+Heap memory(PS Survivor Space):
+used=8224768(7MB),committed=37748736(36MB),usedRatio=21.79%
+Heap memory(PS Old Gen):
+used=54144024(51MB),committed=103284736(98MB),usedRatio=52.42%
+threadCount=37,peakThreadCount=37
+minor gc(PS Scavenge):
+count=13,time=447(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=153(milliseconds)
+metrics:
+NULL
+2017-12-19 14:51:20.010 - jvmInfo:
+start=2017-12-19 14:41:11,load=1.80029296875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=452460544(431MB),freeMemory=267495320(255MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19248384(18MB),committed=20512768(19MB),usedRatio=93.84%
+Non-heap memory(Metaspace):
+used=43541152(41MB),committed=44523520(42MB),usedRatio=97.79%
+Non-heap memory(Compressed Class Space):
+used=5200928(4MB),committed=5505024(5MB),usedRatio=94.48%
+Heap memory(PS Eden Space):
+used=122939432(117MB),committed=320339968(305MB),usedRatio=38.38%
+Heap memory(PS Survivor Space):
+used=360448(0MB),committed=28835840(27MB),usedRatio=1.25%
+Heap memory(PS Old Gen):
+used=62123032(59MB),committed=103284736(98MB),usedRatio=60.15%
+threadCount=37,peakThreadCount=37
+minor gc(PS Scavenge):
+count=14,time=475(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=153(milliseconds)
+metrics:
+NULL
+2017-12-19 15:03:39.917 - jvmInfo:
+start=2017-12-19 14:58:32,load=1.4814453125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=394788864(376MB),freeMemory=178900200(170MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18794944(17MB),committed=19333120(18MB),usedRatio=97.22%
+Non-heap memory(Metaspace):
+used=43255976(41MB),committed=44302336(42MB),usedRatio=97.64%
+Non-heap memory(Compressed Class Space):
+used=5181184(4MB),committed=5505024(5MB),usedRatio=94.12%
+Heap memory(PS Eden Space):
+used=149556280(142MB),committed=220200960(210MB),usedRatio=67.92%
+Heap memory(PS Survivor Space):
+used=18033080(17MB),committed=36175872(34MB),usedRatio=49.85%
+Heap memory(PS Old Gen):
+used=48299304(46MB),committed=138412032(132MB),usedRatio=34.9%
+threadCount=37,peakThreadCount=37
+minor gc(PS Scavenge):
+count=9,time=177(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=135(milliseconds)
+metrics:
+NULL
+2017-12-19 15:36:20.215 - jvmInfo:
+start=2017-12-19 15:31:13,load=1.61572265625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=369623040(352MB),freeMemory=239635880(228MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=15860928(15MB),committed=15925248(15MB),usedRatio=99.6%
+Non-heap memory(Metaspace):
+used=42604560(40MB),committed=43819008(41MB),usedRatio=97.23%
+Non-heap memory(Compressed Class Space):
+used=5163664(4MB),committed=5545984(5MB),usedRatio=93.11%
+Heap memory(PS Eden Space):
+used=98773728(94MB),committed=209190912(199MB),usedRatio=47.22%
+Heap memory(PS Survivor Space):
+used=0(0MB),committed=36700160(35MB),usedRatio=0.0%
+Heap memory(PS Old Gen):
+used=31213432(29MB),committed=123731968(118MB),usedRatio=25.23%
+threadCount=17,peakThreadCount=17
+minor gc(PS Scavenge):
+count=9,time=167(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=147(milliseconds)
+metrics:
+NULL
+2017-12-19 15:43:05.026 - jvmInfo:
+start=2017-12-19 15:37:58,load=2.103515625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=402653184(384MB),freeMemory=299814872(285MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19153472(18MB),committed=19529728(18MB),usedRatio=98.07%
+Non-heap memory(Metaspace):
+used=43143664(41MB),committed=44302336(42MB),usedRatio=97.38%
+Non-heap memory(Compressed Class Space):
+used=5162440(4MB),committed=5505024(5MB),usedRatio=93.78%
+Heap memory(PS Eden Space):
+used=37666904(35MB),committed=222298112(212MB),usedRatio=16.94%
+Heap memory(PS Survivor Space):
+used=16889408(16MB),committed=36175872(34MB),usedRatio=46.69%
+Heap memory(PS Old Gen):
+used=48282000(46MB),committed=144179200(137MB),usedRatio=33.49%
+threadCount=17,peakThreadCount=17
+minor gc(PS Scavenge):
+count=9,time=169(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=177(milliseconds)
+metrics:
+NULL
+2017-12-19 16:18:43.516 - jvmInfo:
+start=2017-12-19 16:13:36,load=1.8525390625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=442499072(422MB),freeMemory=350166968(333MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18693056(17MB),committed=18874368(18MB),usedRatio=99.04%
+Non-heap memory(Metaspace):
+used=43324832(41MB),committed=44564480(42MB),usedRatio=97.22%
+Non-heap memory(Compressed Class Space):
+used=5187416(4MB),committed=5505024(5MB),usedRatio=94.23%
+Heap memory(PS Eden Space):
+used=35282640(33MB),committed=268435456(256MB),usedRatio=13.14%
+Heap memory(PS Survivor Space):
+used=8831024(8MB),committed=34603008(33MB),usedRatio=25.52%
+Heap memory(PS Old Gen):
+used=48218440(45MB),committed=139460608(133MB),usedRatio=34.57%
+threadCount=28,peakThreadCount=28
+minor gc(PS Scavenge):
+count=11,time=212(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=142(milliseconds)
+metrics:
+NULL
+2017-12-19 16:23:43.531 - jvmInfo:
+start=2017-12-19 16:13:36,load=1.9951171875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=446693376(426MB),freeMemory=105319920(100MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18413760(17MB),committed=18939904(18MB),usedRatio=97.22%
+Non-heap memory(Metaspace):
+used=43536640(41MB),committed=44826624(42MB),usedRatio=97.12%
+Non-heap memory(Compressed Class Space):
+used=5192792(4MB),committed=5505024(5MB),usedRatio=94.33%
+Heap memory(PS Eden Space):
+used=284729744(271MB),committed=298319872(284MB),usedRatio=95.44%
+Heap memory(PS Survivor Space):
+used=8781856(8MB),committed=8912896(8MB),usedRatio=98.53%
+Heap memory(PS Old Gen):
+used=48234824(46MB),committed=139460608(133MB),usedRatio=34.59%
+threadCount=28,peakThreadCount=28
+minor gc(PS Scavenge):
+count=13,time=237(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=142(milliseconds)
+metrics:
+NULL
+2017-12-19 16:48:54.090 - jvmInfo:
+start=2017-12-19 16:13:36,load=1.5126953125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=403701760(385MB),freeMemory=286400264(273MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18898304(18MB),committed=19070976(18MB),usedRatio=99.09%
+Non-heap memory(Metaspace):
+used=43572080(41MB),committed=44826624(42MB),usedRatio=97.2%
+Non-heap memory(Compressed Class Space):
+used=5195096(4MB),committed=5505024(5MB),usedRatio=94.37%
+Heap memory(PS Eden Space):
+used=60500496(57MB),committed=255328256(243MB),usedRatio=23.7%
+Heap memory(PS Survivor Space):
+used=8749120(8MB),committed=8912896(8MB),usedRatio=98.16%
+Heap memory(PS Old Gen):
+used=48259400(46MB),committed=139460608(133MB),usedRatio=34.6%
+threadCount=28,peakThreadCount=28
+minor gc(PS Scavenge):
+count=17,time=289(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=142(milliseconds)
+metrics:
+NULL
+2017-12-19 16:53:54.104 - jvmInfo:
+start=2017-12-19 16:13:36,load=1.51025390625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=368574464(351MB),freeMemory=264400112(252MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19144960(18MB),committed=19267584(18MB),usedRatio=99.36%
+Non-heap memory(Metaspace):
+used=43639264(41MB),committed=44826624(42MB),usedRatio=97.35%
+Non-heap memory(Compressed Class Space):
+used=5195096(4MB),committed=5505024(5MB),usedRatio=94.37%
+Heap memory(PS Eden Space):
+used=46208520(44MB),committed=219152384(209MB),usedRatio=21.09%
+Heap memory(PS Survivor Space):
+used=9797664(9MB),committed=9961472(9MB),usedRatio=98.36%
+Heap memory(PS Old Gen):
+used=48283976(46MB),committed=139460608(133MB),usedRatio=34.62%
+threadCount=32,peakThreadCount=32
+minor gc(PS Scavenge):
+count=21,time=337(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=142(milliseconds)
+metrics:
+NULL
+2017-12-19 17:15:08.627 - jvmInfo:
+start=2017-12-19 17:10:02,load=1.6875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=479723520(457MB),freeMemory=170665440(162MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19143616(18MB),committed=19857408(18MB),usedRatio=96.41%
+Non-heap memory(Metaspace):
+used=43165616(41MB),committed=44351488(42MB),usedRatio=97.33%
+Non-heap memory(Compressed Class Space):
+used=5169792(4MB),committed=5554176(5MB),usedRatio=93.08%
+Heap memory(PS Eden Space):
+used=254666640(242MB),committed=319815680(305MB),usedRatio=79.63%
+Heap memory(PS Survivor Space):
+used=6488096(6MB),committed=22544384(21MB),usedRatio=28.78%
+Heap memory(PS Old Gen):
+used=47903344(45MB),committed=137363456(131MB),usedRatio=34.87%
+threadCount=28,peakThreadCount=28
+minor gc(PS Scavenge):
+count=12,time=221(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=153(milliseconds)
+metrics:
+NULL
+2017-12-19 17:20:08.640 - jvmInfo:
+start=2017-12-19 17:10:02,load=1.6337890625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=476577792(454MB),freeMemory=189100520(180MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=18800640(17MB),committed=20250624(19MB),usedRatio=92.84%
+Non-heap memory(Metaspace):
+used=43341488(41MB),committed=44613632(42MB),usedRatio=97.15%
+Non-heap memory(Compressed Class Space):
+used=5176616(4MB),committed=5554176(5MB),usedRatio=93.2%
+Heap memory(PS Eden Space):
+used=233148120(222MB),committed=325058560(310MB),usedRatio=71.72%
+Heap memory(PS Survivor Space):
+used=6815808(6MB),committed=14155776(13MB),usedRatio=48.15%
+Heap memory(PS Old Gen):
+used=47919728(45MB),committed=137363456(131MB),usedRatio=34.89%
+threadCount=33,peakThreadCount=33
+minor gc(PS Scavenge):
+count=16,time=272(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=153(milliseconds)
+metrics:
+NULL
+2017-12-19 17:25:08.656 - jvmInfo:
+start=2017-12-19 17:10:02,load=1.54638671875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=411041792(392MB),freeMemory=296259000(282MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19063232(18MB),committed=20250624(19MB),usedRatio=94.14%
+Non-heap memory(Metaspace):
+used=43372552(41MB),committed=44613632(42MB),usedRatio=97.22%
+Non-heap memory(Compressed Class Space):
+used=5178320(4MB),committed=5554176(5MB),usedRatio=93.23%
+Heap memory(PS Eden Space):
+used=59657104(56MB),committed=265814016(253MB),usedRatio=22.44%
+Heap memory(PS Survivor Space):
+used=7389232(7MB),committed=7864320(7MB),usedRatio=93.96%
+Heap memory(PS Old Gen):
+used=47952496(45MB),committed=137363456(131MB),usedRatio=34.91%
+threadCount=44,peakThreadCount=45
+minor gc(PS Scavenge):
+count=21,time=330(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=153(milliseconds)
+metrics:
+NULL
+2017-12-19 17:33:29.253 - jvmInfo:
+start=2017-12-19 17:28:21,load=1.95458984375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=524812288(500MB),freeMemory=336610648(321MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=20354048(19MB),committed=20512768(19MB),usedRatio=99.23%
+Non-heap memory(Metaspace):
+used=43255408(41MB),committed=44523520(42MB),usedRatio=97.15%
+Non-heap memory(Compressed Class Space):
+used=5174272(4MB),committed=5464064(5MB),usedRatio=94.7%
+Heap memory(PS Eden Space):
+used=153391232(146MB),committed=371195904(354MB),usedRatio=41.32%
+Heap memory(PS Survivor Space):
+used=458752(0MB),committed=35127296(33MB),usedRatio=1.31%
+Heap memory(PS Old Gen):
+used=34351656(32MB),committed=118489088(113MB),usedRatio=28.99%
+threadCount=28,peakThreadCount=28
+minor gc(PS Scavenge):
+count=13,time=197(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=132(milliseconds)
+metrics:
+NULL
+2017-12-19 17:38:29.268 - jvmInfo:
+start=2017-12-19 17:28:21,load=1.94921875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=447741952(427MB),freeMemory=90153664(85MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19539520(18MB),committed=20840448(19MB),usedRatio=93.76%
+Non-heap memory(Metaspace):
+used=43462552(41MB),committed=44916736(42MB),usedRatio=96.76%
+Non-heap memory(Compressed Class Space):
+used=5187040(4MB),committed=5595136(5MB),usedRatio=92.71%
+Heap memory(PS Eden Space):
+used=322548576(307MB),committed=327680000(312MB),usedRatio=98.43%
+Heap memory(PS Survivor Space):
+used=1081344(1MB),committed=1572864(1MB),usedRatio=68.75%
+Heap memory(PS Old Gen):
+used=34368040(32MB),committed=118489088(113MB),usedRatio=29.01%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=16,time=209(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=132(milliseconds)
+metrics:
+NULL
+2017-12-19 19:24:18.379 - jvmInfo:
+start=2017-12-19 19:19:10,load=2.00390625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=434634752(414MB),freeMemory=330632024(315MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=20235328(19MB),committed=20774912(19MB),usedRatio=97.4%
+Non-heap memory(Metaspace):
+used=43302208(41MB),committed=44523520(42MB),usedRatio=97.26%
+Non-heap memory(Compressed Class Space):
+used=5178408(4MB),committed=5464064(5MB),usedRatio=94.77%
+Heap memory(PS Eden Space):
+used=71888216(68MB),committed=312999936(298MB),usedRatio=22.97%
+Heap memory(PS Survivor Space):
+used=753664(0MB),committed=19398656(18MB),usedRatio=3.89%
+Heap memory(PS Old Gen):
+used=31360848(29MB),committed=102236160(97MB),usedRatio=30.67%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=14,time=199(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:29:18.389 - jvmInfo:
+start=2017-12-19 19:19:10,load=1.6015625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=501743616(478MB),freeMemory=362613200(345MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=20662784(19MB),committed=21037056(20MB),usedRatio=98.22%
+Non-heap memory(Metaspace):
+used=43503696(41MB),committed=44916736(42MB),usedRatio=96.85%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=107410064(102MB),committed=384827392(367MB),usedRatio=27.91%
+Heap memory(PS Survivor Space):
+used=884736(0MB),committed=14680064(14MB),usedRatio=6.03%
+Heap memory(PS Old Gen):
+used=31385424(29MB),committed=102236160(97MB),usedRatio=30.7%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=16,time=207(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:34:18.398 - jvmInfo:
+start=2017-12-19 19:19:10,load=1.677734375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=462422016(441MB),freeMemory=263353392(251MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19523264(18MB),committed=21037056(20MB),usedRatio=92.8%
+Non-heap memory(Metaspace):
+used=43509792(41MB),committed=44916736(42MB),usedRatio=96.87%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=167093400(159MB),committed=352845824(336MB),usedRatio=47.36%
+Heap memory(PS Survivor Space):
+used=917504(0MB),committed=7340032(7MB),usedRatio=12.5%
+Heap memory(PS Old Gen):
+used=31385424(29MB),committed=102236160(97MB),usedRatio=30.7%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=18,time=215(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:39:18.408 - jvmInfo:
+start=2017-12-19 19:19:10,load=1.68408203125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=427294720(407MB),freeMemory=104065648(99MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19722304(18MB),committed=21037056(20MB),usedRatio=93.75%
+Non-heap memory(Metaspace):
+used=43541592(41MB),committed=44916736(42MB),usedRatio=96.94%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=291113576(277MB),committed=324009984(309MB),usedRatio=89.85%
+Heap memory(PS Survivor Space):
+used=917504(0MB),committed=1048576(1MB),usedRatio=87.5%
+Heap memory(PS Old Gen):
+used=31393616(29MB),committed=102236160(97MB),usedRatio=30.71%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=20,time=223(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:44:18.417 - jvmInfo:
+start=2017-12-19 19:19:10,load=1.9033203125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=411041792(392MB),freeMemory=360621656(343MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19761472(18MB),committed=21037056(20MB),usedRatio=93.94%
+Non-heap memory(Metaspace):
+used=43550072(41MB),committed=44916736(42MB),usedRatio=96.96%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=18196608(17MB),committed=285736960(272MB),usedRatio=6.37%
+Heap memory(PS Survivor Space):
+used=917504(0MB),committed=23068672(22MB),usedRatio=3.98%
+Heap memory(PS Old Gen):
+used=31418192(29MB),committed=102236160(97MB),usedRatio=30.73%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=23,time=236(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:49:18.425 - jvmInfo:
+start=2017-12-19 19:19:10,load=1.2978515625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=386400256(368MB),freeMemory=280272624(267MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19803648(18MB),committed=21037056(20MB),usedRatio=94.14%
+Non-heap memory(Metaspace):
+used=43557800(41MB),committed=44916736(42MB),usedRatio=96.97%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=73859120(70MB),committed=263192576(251MB),usedRatio=28.06%
+Heap memory(PS Survivor Space):
+used=917504(0MB),committed=20971520(20MB),usedRatio=4.38%
+Heap memory(PS Old Gen):
+used=31418192(29MB),committed=102236160(97MB),usedRatio=30.73%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=25,time=241(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:54:18.436 - jvmInfo:
+start=2017-12-19 19:19:10,load=2.52587890625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=363855872(347MB),freeMemory=196631184(187MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19843904(18MB),committed=21037056(20MB),usedRatio=94.33%
+Non-heap memory(Metaspace):
+used=43574936(41MB),committed=44916736(42MB),usedRatio=97.01%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=134994832(128MB),committed=242745344(231MB),usedRatio=55.61%
+Heap memory(PS Survivor Space):
+used=851968(0MB),committed=18874368(18MB),usedRatio=4.51%
+Heap memory(PS Old Gen):
+used=31418192(29MB),committed=102236160(97MB),usedRatio=30.73%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=27,time=253(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 19:59:18.449 - jvmInfo:
+start=2017-12-19 19:19:10,load=2.18408203125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=319291392(304MB),freeMemory=278175744(265MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19862592(18MB),committed=21037056(20MB),usedRatio=94.42%
+Non-heap memory(Metaspace):
+used=43577872(41MB),committed=44916736(42MB),usedRatio=97.02%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=8836296(8MB),committed=216006656(206MB),usedRatio=4.09%
+Heap memory(PS Survivor Space):
+used=819200(0MB),committed=1048576(1MB),usedRatio=78.13%
+Heap memory(PS Old Gen):
+used=31483744(30MB),committed=102236160(97MB),usedRatio=30.8%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=30,time=272(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 20:04:18.458 - jvmInfo:
+start=2017-12-19 19:19:10,load=1.65478515625
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=303038464(289MB),freeMemory=121123040(115MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=19921792(18MB),committed=21037056(20MB),usedRatio=94.7%
+Non-heap memory(Metaspace):
+used=43583784(41MB),committed=44916736(42MB),usedRatio=97.03%
+Non-heap memory(Compressed Class Space):
+used=5184288(4MB),committed=5595136(5MB),usedRatio=92.66%
+Heap memory(PS Eden Space):
+used=149594104(142MB),committed=199753728(190MB),usedRatio=74.89%
+Heap memory(PS Survivor Space):
+used=819200(0MB),committed=1048576(1MB),usedRatio=78.13%
+Heap memory(PS Old Gen):
+used=31516512(30MB),committed=102236160(97MB),usedRatio=30.83%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=32,time=279(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 20:09:18.466 - jvmInfo:
+start=2017-12-19 19:19:10,load=2.58740234375
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=133693440(127MB),freeMemory=66689912(63MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=21310208(20MB),committed=21495808(20MB),usedRatio=99.14%
+Non-heap memory(Metaspace):
+used=43705008(41MB),committed=44916736(42MB),usedRatio=97.3%
+Non-heap memory(Compressed Class Space):
+used=5194624(4MB),committed=5595136(5MB),usedRatio=92.84%
+Heap memory(PS Eden Space):
+used=22692952(21MB),committed=30408704(29MB),usedRatio=74.63%
+Heap memory(PS Survivor Space):
+used=1048576(1MB),committed=1048576(1MB),usedRatio=100.0%
+Heap memory(PS Old Gen):
+used=43310752(41MB),committed=102236160(97MB),usedRatio=42.36%
+threadCount=46,peakThreadCount=46
+minor gc(PS Scavenge):
+count=354,time=1048(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=126(milliseconds)
+metrics:
+NULL
+2017-12-19 20:29:37.869 - jvmInfo:
+start=2017-12-19 20:24:29,load=2.1328125
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=552075264(526MB),freeMemory=430966632(411MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=20038336(19MB),committed=20512768(19MB),usedRatio=97.69%
+Non-heap memory(Metaspace):
+used=43253960(41MB),committed=44261376(42MB),usedRatio=97.72%
+Non-heap memory(Compressed Class Space):
+used=5176032(4MB),committed=5464064(5MB),usedRatio=94.73%
+Heap memory(PS Eden Space):
+used=61472592(58MB),committed=359661568(343MB),usedRatio=17.09%
+Heap memory(PS Survivor Space):
+used=4522016(4MB),committed=41418752(39MB),usedRatio=10.92%
+Heap memory(PS Old Gen):
+used=55114024(52MB),committed=150994944(144MB),usedRatio=36.5%
+threadCount=38,peakThreadCount=38
+minor gc(PS Scavenge):
+count=9,time=183(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=171(milliseconds)
+metrics:
+NULL
+2017-12-19 20:39:13.045 - jvmInfo:
+start=2017-12-19 20:34:05,load=1.38671875
+java_version=1.8.0_144,java_path=/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre
+totalMemory=515375104(491MB),freeMemory=394347760(376MB),maxMemory=1908932608(1820MB)
+Non-heap memory(Code Cache):
+used=20468224(19MB),committed=20774912(19MB),usedRatio=98.52%
+Non-heap memory(Metaspace):
+used=43288608(41MB),committed=44261376(42MB),usedRatio=97.8%
+Non-heap memory(Compressed Class Space):
+used=5176272(4MB),committed=5464064(5MB),usedRatio=94.73%
+Heap memory(PS Eden Space):
+used=84554648(80MB),committed=372244480(355MB),usedRatio=22.71%
+Heap memory(PS Survivor Space):
+used=1441792(1MB),committed=24117248(23MB),usedRatio=5.98%
+Heap memory(PS Old Gen):
+used=35030904(33MB),committed=119013376(113MB),usedRatio=29.43%
+threadCount=58,peakThreadCount=58
+minor gc(PS Scavenge):
+count=12,time=224(milliseconds)
+full gc(PS MarkSweep):
+count=2,time=147(milliseconds)
+metrics:
+NULL
