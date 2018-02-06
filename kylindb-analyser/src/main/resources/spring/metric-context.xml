@@ -13,9 +13,16 @@
      http://www.springframework.org/schema/util/spring-util.xsd">
      
 	<context:component-scan base-package="net.kylindb" />
-
-	<bean id="hbaseClient" name="hbaseClient"	class="org.hbase.async.HBaseClient">
- 		<constructor-arg name="quorum_spec" value="${hbase.zk.quorum}" />
-		<constructor-arg name="base_path" value="/hbase" />
-	</bean>
+			
+	<!-- enable autowire -->
+	<context:annotation-config />
+	
+	<bean id="metricProperty"  
+          class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">  
+	    <property name="locations">  
+	        <array>  
+	            <value>classpath:kylindb.properties</value>  
+	        </array>  
+	    </property>  
+    </bean>  
 </beans>

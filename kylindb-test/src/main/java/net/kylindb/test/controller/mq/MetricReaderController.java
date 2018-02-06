@@ -44,7 +44,6 @@ public class MetricReaderController {
 	@RequestMapping("queryMetric")
 	public void query(int size) {
 		LOG.info("start to test query message.");
-		// 5个线程
 		int threadSize = size;
 		Thread[] threads = new Thread[threadSize];
 		for (int i = 0; i < threadSize; i++){
@@ -139,5 +138,62 @@ public class MetricReaderController {
 				num++;
 			}
 	}
+	
+	@RequestMapping("queryLatestMetric")
+	public void queryLatest(int size) {
+		LOG.info("start to test query message.");
+		int threadSize = size;
+		Thread[] threads = new Thread[threadSize];
+		for (int i = 0; i < threadSize; i++){
+			threads[i] = new Thread(new Runnable(){
+				public void run(){
+					PoolingHttpClientConnectionManager cm = new PoolingHttpClientConnectionManager();
+					CloseableHttpClient httpclient = HttpClients.custom()
+				            .setConnectionManager(cm)
+				            .build();
+					ExecutorService querys = Executors.newFixedThreadPool(2);
+					Random rnd = new Random();
+					
+					// 获取1天的数据量
+					int times = 0;
+					while(times < 100000){
+						executeQuery(httpclient, querys, rnd);
+						times++;
+						try {
+							Thread.sleep(10L);
+						} catch (Exception e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+				}
+			});
+		}
+		
+		for (int i = 0; i < threadSize; i++){
+			threads[i].start();
+		}
+		
+
+		if (!start.get()){
+			Executors.newScheduledThreadPool(1).scheduleAtFixedRate(new Runnable(){
+				public void run(){
+					LOG.info("====count:{}", count.get());
+				}
+			}, 0, 10, TimeUnit.SECONDS);
+			start.set(true);
+		}
+		
+		for (int i = 0; i < threadSize; i++){
+			try {
+				threads[i].join();
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	
 
 }

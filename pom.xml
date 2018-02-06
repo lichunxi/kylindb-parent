@@ -12,5 +12,14 @@
   	<module>kylindb-test</module>
   	<module>kylindb-orm</module>
   	<module>kylindb-client</module>
+  	<module>kylindb-analyser</module>
+  	<module>wheelTimer</module>
   </modules>
+  <dependencies>
+  	<dependency>
+  		<groupId>ch.qos.logback</groupId>
+  		<artifactId>logback-classic</artifactId>
+  		<version>1.2.3</version>
+  	</dependency>
+  </dependencies>
 </project>
